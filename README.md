@@ -8,9 +8,11 @@ Copy paste, should be simple
 
 
 ## Requires
+[VRP](https://github.com/ImagicTheCat/vRP)
+[VRP_DMVSchool](https://github.com/Sighmir/vrp_dmvschool)
 
 
-## Contributing
+# DISCLAIMER
 
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
