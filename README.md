@@ -9,25 +9,13 @@ Copy paste, should be simple
 
 ## Requires
 -[VRP](https://github.com/ImagicTheCat/vRP) 
+
 -[VRP_DMVSchool](https://github.com/Sighmir/vrp_dmvschool)
 
 
 # DISCLAIMER
+I did not code the original VRP, nor DMVSchool, only this extension.
 
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
+Credits for VRP goes to [IMagic](https://github.com/ImagicTheCat) and [Sighmir](https://github.com/Sighmir)
 
-## History
-
-TODO: Write history
-
-## Credits
-
-TODO: Write credits
-
-## License
-
-TODO: Write license
+[B]I will not be giving any kind of support, if you can't figure out copy-pasting and reading the instructions in the Police.lua file.[/B]
