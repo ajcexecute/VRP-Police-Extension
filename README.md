@@ -1,14 +1,14 @@
-# Project Name
+# Project Remove_License
 
-TODO: Write a project description
+TODO: Nothing needs to be done
 
 ## Installation
 
-TODO: Describe the installation process
+Copy paste, should be simple
 
-## Usage
 
-TODO: Write usage instructions
+## Requires
+
 
 ## Contributing
 
