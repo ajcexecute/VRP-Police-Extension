@@ -8,9 +8,9 @@ Copy paste, should be simple
 
 
 ## Requires
--[VRP](https://github.com/ImagicTheCat/vRP) **Corescript**
+- [VRP](https://github.com/ImagicTheCat/vRP) -**Corescript**
 
--[VRP_DMVSchool](https://github.com/Sighmir/vrp_dmvschool) **DMVSchool provides the license**
+- [VRP_DMVSchool](https://github.com/Sighmir/vrp_dmvschool) -**DMVSchool provides the license**
 
 
 # DISCLAIMER
